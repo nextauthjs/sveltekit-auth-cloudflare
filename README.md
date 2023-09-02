@@ -8,7 +8,7 @@
    <a href="https://kit.svelte.dev" target="_blank">
    <img height="64" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
    </a>
-   <h3 align="center"><b>SvelteKit Auth</b> - Example App</h3>
+   <h3 align="center"><b>SvelteKit Auth</b> - Example App Deployed on Cloudflare Pages.</h3>
    <p align="center">
    Open Source. Full Stack. Own Your Data.
    </p>
@@ -30,10 +30,8 @@
 
 ## Overview
 
-This is the official SvelteKit Auth example for [Auth.js](https://sveltekit.authjs.dev).
+This is the official SvelteKit Auth example for [Auth.js](https://sveltekit.authjs.dev) deployed on Cloudflare Pages.
 
 ## Getting started
 
-You can instantly deploy this example to [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=sveltekit-auth-example) by clicking the following button.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/nextauthjs/sveltekit-auth-example&project-name=sveltekit-auth-example&repository-name=sveltekit-auth-example)
+You can follow the official guide to deploy your SvelteKit app to Cloudflare: https://developers.cloudflare.com/pages/framework-guides/deploy-a-svelte-site/
